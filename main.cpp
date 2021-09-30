@@ -1,7 +1,7 @@
 #include <Arduino.h>
 /* engine_remote_control 
  *  
- *  Using servos to shift gear and work throttle on un outboard enginge using a single lever (potensiometer) as input. 
+ *  Using servos to shift gear and work throttle on a small outboard engine using a single lever (potensiometer) as input. 
  *  Created by Robspace 2021 v0.1
  */
 
